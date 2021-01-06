@@ -16,9 +16,10 @@ html {
 }
 
 #logo {
-    width: min(25%, 70px);
-    height: min(25%, 70px);
+    width: min(25%, 72px);
+    height: min(25%, 72px);
     padding: 0px 20px; 
+    margin-bottom: -3px; 
 }
 
 #title {
